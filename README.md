@@ -8,22 +8,22 @@
 
 - 🌱 I’m currently learning **Selenium, ISTQB Agile Tester Certificate**
 
-- 👨‍💻 My projects are available at [Projects Page](https://deyaamohammed.github.io/projects)
+- 👨‍💻 My projects are available at <a href="https://deyaamohammed.github.io/projects" target="_blank">My Projects Page</a>
 
-- 📚 My learning journey is available at [Learning Journey Page](https://deyaamohammed.github.io/learningjourney)
+- 📚 My learning journey is available at <a href="https://deyaamohammed.github.io/learningjourney" target="_blank">My Learning Journey Page</a>
 
 - 💬 Ask me about **Manual Testing, Postman, REST Assured, Gamification**
 
 - 📫 How to reach me **deyaa.mohammed@outlook.com**
 
-- 📄 Know more about me at [My Website](https://deyaamohammed.github.io)
+- 📄 Know more about me at <a href="https://deyaamohammed.github.io" target="_blank">My Website</a>
 
 - ⚡ Fun fact **I am in love with Trance music**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/deyaamohammed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deyaamohammed" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/deyaa_mohammed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="deyaa_mohammed" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/deyaamohammed" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deyaamohammed" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/deyaa_mohammed" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="deyaa_mohammed" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
